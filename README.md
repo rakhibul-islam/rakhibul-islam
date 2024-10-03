@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋, I'm Rakhibul Islam
+#### Web Developer
 
-<!--
-**Rakhibul-Islam/Rakhibul-Islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <p align="center"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" /></p>
 
-Here are some ideas to get you started:
+Web developer focused on creating clean, responsive websites. Always learning and improving!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: HTML/CSS/JS/GitHub/Git
+
+
+- 🌱 I’m currently learning Javascript.
+
+
+
